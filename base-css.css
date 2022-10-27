@@ -1,0 +1,211 @@
+.outer {
+    height: 50px;
+    width: 1250px;
+    margin-left: 50%;
+    border-width: 1.5px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    border-radius: 5px; 
+}
+
+
+.under-box {
+    margin-left: 50%;
+    height: 4000px;
+    width: 1250px;
+    border: solid;
+    border-width: 1.5px;
+    border-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.logo-button {
+    font-family: "monaco", monospace;
+    border-radius: 5px;
+    height: 45px;
+    width: 50px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1.5px;
+    margin-left: 2px;
+    margin-top: 2px;
+    color: black;
+    background-color: white;
+}
+
+.fit-button {
+    font-family: "monaco", monospace;
+    height: 45px;
+    width: 70px;
+    border: solid;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-color: rgba(0, 0, 0, 0.2);
+    margin-left: 25px;
+}
+
+    .fit-button:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.15s;
+    }
+
+
+
+
+
+
+
+
+.news-button {
+    font-family: "monaco", monospace;
+    height: 45px;
+    width: 70px;
+    border: solid;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-color: rgba(0, 0, 0, 0.2);
+    margin-left: 5px;
+}
+
+    .news-button:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.15s;
+    }
+
+
+
+
+
+
+.sales-button {
+    font-family: "monaco", monospace;
+    height: 45px;
+    width: 70px;
+    border: solid;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-color: rgba(0, 0, 0, 0.2);
+    margin-left: 5px;
+}
+
+    .sales-button:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.15s;
+    }
+
+
+
+
+
+
+.search-bar {
+    font-family: "monaco", monospace;
+    height: 40px;
+    width: 550px;
+    background-color: white;
+    border-color: rgba(0, 0, 0, 0.2);
+    color: black;
+}
+
+.logo-button2 {
+    font-family: "monaco", monospace;
+    height: 40px;
+    width: 40px;
+    border: solid;
+    background-color: white;
+    border-radius: 50%;
+    color: black;
+    border-color: rgba(0, 0, 0, 0.2);
+    display: inline;
+    margin-left: 10px;
+}
+
+
+::placeholder {
+    color: black;
+}
+
+.likes {
+    font-family: "monaco", monospace;
+    border-radius: 5px;
+    height: 45px;
+    width: 50px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1.5px;
+    color: black;
+    background-color: white;
+    margin-left: 30px;
+}
+
+    .likes:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.1s;
+    }
+
+.profile {
+    font-family: "monaco", monospace;
+    border-radius: 5px;
+    height: 45px;
+    width: 70px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1.5px;
+    color: black;
+    background-color: white;
+    float: right;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+    .profile:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.15s;
+    }
+
+.settings {
+    font-family: "monaco", monospace;
+    border-radius: 5px;
+    height: 45px;
+    width: 80px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-width: 1.5px;
+    color: black;
+    background-color: white;
+    margin-left: 35px;
+}
+
+    .settings:hover {
+        cursor: pointer;
+        color: white;
+        background-color: black;
+        transition: 0.15s;
+    }
+
+.base-window {
+    margin-left: 25px;
+    margin-top: 50px;
+    height: 700px;
+    width: 500px;
+    border: solid;
+    border-width: 1.5px;
+    border-radius: 7px;
+    border-color: rgba(0, 0, 0, 0.2);
+}
