@@ -219,6 +219,11 @@
     border-width: 1.5px;
     margin-top: 10px;
     margin-left: 25px;
+}
 
-
+.insta-button{
+    height: 30px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
