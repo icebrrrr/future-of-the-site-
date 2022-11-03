@@ -1,0 +1,24 @@
+.outer-div{
+    height: 50px;
+    width: 300px;
+    background-color: white;
+}
+
+
+.button{
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    border-radius: 7px;
+    border-width: 1.5px;
+    border-color: rgba(0, 0, 0, 0.2);
+
+
+
+}
+
+
+.button:focus{
+    height: 500px;
+
+}

@@ -201,7 +201,7 @@
 
 .base-window {
     margin-left: 25px;
-    margin-top: 50px;
+    margin-top: 30px;
     height: 700px;
     width: 500px;
     border: solid;
@@ -226,4 +226,29 @@
     width: 30px;
     margin-top: 10px;
     margin-left: 10px;
+}
+
+.tab{
+    height: 50px;
+    width: 600px;
+    background-color: white;
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.downward-button{
+    background-color: white;
+    height: 50px;
+    width: 600px;
+    border-radius: 7px;
+    border-width: 1.5px;
+    border-color: rgba(0, 0, 0, 0.2);
+
+}
+
+
+.downward-button:focus{
+    height: 500px;
+
 }
